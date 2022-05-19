@@ -10,7 +10,7 @@ A Python package to predict if miRNA sequence is involved in EMT Process.
 EMTPred was coded in Python v3.6, and require a few libraries (`numpy`, `pandas`, `sklearn`, and `pickle`) to be pre-installed, which can be installed as below:
 
 ```
-pip install numpy pandas sklearn
+pip install numpy pandas sklearn pickle
 ```
 
 ## Installation
