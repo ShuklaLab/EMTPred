@@ -1,4 +1,4 @@
-# EMTPred: <ins>E<\ins>pithelial <ins>M<\ins>esenchymal <ins>T<\ins>ransition <ins>P<\ins>rediction
+# EMTPred: <ins>E</ins>pithelial <ins>M</ins>esenchymal <ins>T</ins>ransition <ins>P</ins>rediction
 A Python package to predict if miRNA sequence is involved in EMT Process.
 
 **Visit us at:** [Shukla Lab](https://shuklalab.github.io/)
