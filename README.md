@@ -18,7 +18,7 @@ pip install numpy pandas sklearn
 To install the latest version of EMTPred, please follow the steps:
 
 ```
-pip install git+https://github.com/ShuklaLab/gibbSmplr.git
+pip install git+https://github.com/ShuklaLab/EMTPred.git
 ```
 
 To update the package just run the same command again.
